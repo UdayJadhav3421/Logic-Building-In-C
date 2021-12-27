@@ -15,8 +15,8 @@ void PrintEven(int No)
         if(j % 2 == 0)
         {
             printf("  %d",j);
-            j++;
-            j++;
+            j+2;
+            
         }
     }
 }
