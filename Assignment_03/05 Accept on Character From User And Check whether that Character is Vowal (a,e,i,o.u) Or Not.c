@@ -6,7 +6,7 @@
 
 int ChkVowal(char ch)
 {
-    if(ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o'|| ch == 'O' || ch == 'u' || ch == 'U')
+    if(ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o'|| ch == 'O' || ch == 'u' || ch == 'U' || ch == 'z' || ch == 'Z')
     {
         return 1;
     }
